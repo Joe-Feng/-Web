@@ -1,6 +1,6 @@
 # Online-log-system
 
-阅读书序： 用Django框架来创建Web应用程序 -> 设置用户账户  -> 部署
+阅读顺序： 用Django框架来创建Web应用程序 -> 设置用户账户  -> 部署
 
 ## 用Django框架来创建Web应用程序
 
